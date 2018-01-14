@@ -209,9 +209,27 @@ fast-tracked at top software companies.
 
 **`https://www.switchup.org/`**
 
+Coding Bootcamp, Data Science, Design, and Marketing Courses.
+Transparent Reviews: Develop skills for a new career. Get your recommendations
+straight from the alumni of skills training programs for coding bootcamps,
+design, marketing, and more. New Opportunities: We equip learners with the
+latest news, scholarships, and financial aid. Explore our blog and sign up for
+our newsletter for free tips and advice about coding bootcamps and other
+technology programs. Career Tips: Your journey doesn't end here. Join our
+community to receive free career tips, e-books, academic research, and updates
+about technology education.
+
 ### [CourseReport](https://www.coursereport.com/)
 
 **`https://www.coursereport.com/`**
+
+Course Report is the leading authority on immersive technology education,
+having been cited in the New York Times, the Wall Street Journal, the San
+Francisco Chronicle, TechCrunch, GeekWire, EdSurge and more. We conduct
+in-depth research on the industry, track trends in coding education, share
+student stories, produce a monthly podcast, and host thousands of alumni
+reviews. Course Report has everything you need to choose the bootcamp that’s
+right for you.
 
 ## Contributors
 

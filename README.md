@@ -38,17 +38,43 @@ do everything needed to make sure you get your dream job.
 
 **`https://www.hackerrank.com/`**
 
+The HackerRank team is on a mission to match every developer in the world to
+the right job by providing a technical recruiting platform that assesses
+developers based on actual coding skills. Our solution is revolutionizing the
+way companies discover and evaluate talented developers. HackerRank is the
+destination for the best developers to hone their skills and for companies to
+find top software developers. By addressing all phases - sourcing, screening
+and interviewing - we help companies uncover higher quality candidates, reduce
+time to hire and return valuable productivity time to teams.
+
 ### [Topcoder](https://www.topcoder.com/)
 
 **`https://www.topcoder.com/`**
+
+Topcoder helps businesses get ready for tomorrow by embracing the world’s top
+talent today through crowdsourcing. Topcoder is a crowdsourcing marketplace
+that connects businesses with hard-to-find expertise. The Topcoder Community
+includes more than one million of the world’s top designers, developers, data
+scientists, and algorithmists. Global enterprises and startups alike use
+Topcoder to accelerate innovation, solve challenging problems, and tap into
+specialized skills on demand.
 
 ### [Advent of Code](https://adventofcode.com/)
 
 **`https://adventofcode.com/`**
 
+Advent of Code is a series of small programming puzzles for a variety of skill
+levels. They are self-contained and are just as appropriate for an expert who
+wants to stay sharp as they are for a beginner who is just learning to code.
+Each puzzle calls upon different skills and has two parts that build on a theme.
+
 ### [LeetCode](https://leetcode.com/)
 
 **`https://leetcode.com/`**
+
+Explore is a well-organized tool that helps you get the most out of LeetCode by
+providing structure to guide your progress towards the next step in your
+programming career.
 
 ##  Tutorials
 
@@ -56,17 +82,67 @@ do everything needed to make sure you get your dream job.
 
 **`https://www.careercup.com/about`**
 
+CareerCup's founding was more accidental than anything else. Back in 2005, when
+Gayle Laakmann McDowell was graduating college, a friend two years younger
+asked her to keep some notes on where she was interviewing and what she thought
+of each company. Gayle did that, but also decided to record all the interview
+questions (which you can still see). Word got out about this list of interview
+questions, and pretty soon it became faster to post it online than to email
+around a Word doc. (After all, engineers are all about efficiency!) Then people
+discovered this page (which was, at that time, just hosted off her personal
+website) and traffic grew. And then other people started to contribute their
+questions. Slowly, bit by bit, it evolved into the CareerCup we know and love.
+
 ### [Udacity](https://www.udacity.com/)
 
 **`https://www.udacity.com/`**
+
+Our mission is to democratize education through the offering of world-class
+higher education opportunities that are accessible, flexible, and economical.
+Virtually anyone on the planet with an internet connection and a commitment to
+self-empowerment through learning can come to Udacity, master a suite of
+job-ready skills, and pursue rewarding employment.
+
+### [Udemy](https://www.udemy.com/)
+
+**`https://www.udemy.com/`**
+
+Udemy is a global marketplace for learning and teaching online where students
+are mastering new skills and achieving their goals by learning from an
+extensive library of over 55,000 courses taught by expert instructors.
+
+### [Coursera](https://www.coursera.org/)
+
+**`https://www.coursera.org/`**
+
+Every course on Coursera is taught by top instructors from the world’s best
+universities and educational institutions. Courses include recorded video
+lectures, auto-graded and peer-reviewed assignments, and community discussion
+forums. When you complete a course, you’ll receive a sharable electronic Course
+Certificate.
 
 ### [freeCodeCamp](https://www.freecodecamp.org/)
 
 **`https://www.freecodecamp.org/`**
 
+We’re a community that helps you learn to code, then get experience by
+contributing to open source projects used by nonprofits. You'll learn to code
+by completing coding challenges and building projects. You'll also earn
+verified certificates along the way. We also encourage you to join a study
+group in your city so you can code in-person with other people.
+
 ### [codeacademy](https://www.codecademy.com/)
 
 **`https://www.codecademy.com/`**
+
+Codecademy is an education company. But not one in the way you might think.
+We're committed to building the best learning experience inside and out, making
+Codecademy the best place for our team to learn, teach, and create the online
+learning experience of the future. Education is old. The current public school
+system in the US dates back to the 19th century and wasn't designed to scale
+the way it has. Lots of companies are working to "disrupt" education by
+changing the way things work in the classroom and by bringing the classroom
+online.
 
 ## Recruiters and Headhunters
 
@@ -74,13 +150,34 @@ do everything needed to make sure you get your dream job.
 
 **`https://www.vettery.com/`**
 
+We started Vettery because finding a job you love shouldn’t be an agonizing
+process. Our hiring marketplace lets you experience the job search in a better
+way. Employers reach out to you and you have the power to compare opportunities
+before choosing which you're most interested in. You're also matched up with a
+Talent Executive who will guide and assist you throughout your search. You're
+welcome to reach out to them anytime! Since launching, thousands of matches
+have been made on Vettery between talented candidates and top companies. We're
+passionate about changing the recruiting landscape and making Mondays the
+happiest day of the week.
+
 ### [TripleByte](https://triplebyte.com/)
 
 **`https://triplebyte.com/`**
 
+Triplebyte was founded on the belief that the current technical hiring process
+doesn’t do enough to help engineers show their strengths. Our founders started
+Triplebyte to help engineers find great jobs by assessing their abilities
+without relying on the prestige of their resume credentials. You can read more
+about Triplebyte’s views on hiring in our manifesto here.
+
 ### [Hired](https://hired.com/)
 
 **`https://hired.com/`**
+
+We match you with compelling full-time and contract opportunities at the
+world's most innovative companies. Get job offers. TAKE THE STRESS OUT OF YOUR
+JOB SEARCH. No resumes, no cover letters — just a streamlined way to connect
+with the right companies faster
 
 ### [woo](https://woo.io/)
 

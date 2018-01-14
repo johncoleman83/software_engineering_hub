@@ -208,8 +208,7 @@ fast-tracked at top software companies.
 
 ## Contributors
 
-<img src="https://github.com/johncoleman83/software_engineering_hub/blob/master/holbertonschool-logo.png"
-width="300px" height=auto />
+![](https://raw.githubusercontent.com/johncoleman83/software_engineering_hub/master/holberton-school-logo.png)
 
 * David John Coleman II,
 [davidjohncoleman.com](http://www.davidjohncoleman.com/) |

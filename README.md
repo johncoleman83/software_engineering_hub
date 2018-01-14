@@ -4,6 +4,13 @@ Software Engineering Resources Hub.  These resources support Software Engineers
 seeking to begin or enhance their skills and career. Many of the guides are
 well suited for interview preparation for top software tech companies.
 
+**Table of Contents**
+
+* [Algorithms](https://johncoleman83.github.io/software_engineering_hub#algorithms)
+* [Tutorials](https://johncoleman83.github.io/software_engineering_hub#tutorials)
+* [Recruiters & Headhunters](https://johncoleman83.github.io/software_engineering_hub#recruiters-and-headhunters)
+* [Software Engineering School Guides](https://johncoleman83.github.io/software_engineering_hub#software-engineering-school-guides)
+
 ## Algorithms
 
 ### [Codewars](https://www.codewars.com/)

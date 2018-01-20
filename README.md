@@ -9,7 +9,8 @@ well suited for interview preparation for top software tech companies.
 * [Algorithms](https://johncoleman83.github.io/software_engineering_hub#algorithms)
 * [Tutorials](https://johncoleman83.github.io/software_engineering_hub#tutorials)
 * [Recruiters, Headhunters & Interview Prep](https://johncoleman83.github.io/software_engineering_hub#recruiters-headhunters-and-interview-prep)
-* [Software Engineering School Guides](https://johncoleman83.github.io/software_engineering_hub#software-engineering-school-guides)
+* [Software Engineering Schools](https://johncoleman83.github.io/software_engineering_hub#software-engineering-schools)
+* [General Tech Info](https://johncoleman83.github.io/software_engineering_hub#general-tech-info)
 
 ## Algorithms
 
@@ -216,6 +217,15 @@ Ace It: Learn from peers’ feedback, gain confidence and master the art of
 interviewing. Keep practicing until you interview like a rock star. Impress
 recruiters and land awesome job offers.
 
+### [AngelList](https://angel.co/)
+
+**`https://angel.co/`**
+
+Get a Job at a Startup: Apply privately to 73,872 startup jobs with one
+application, No middlemen, See salary and equity upfront.  Invest in Startups:
+Build a diverse portfolio of early-stage startup investments Private and
+oversubscribed deals
+
 ## Software Engineering School Guides
 
 ### [Switchup](https://www.switchup.org/)
@@ -243,6 +253,17 @@ in-depth research on the industry, track trends in coding education, share
 student stories, produce a monthly podcast, and host thousands of alumni
 reviews. Course Report has everything you need to choose the bootcamp that’s
 right for you.
+
+## General Tech Info
+
+### [stackshare](https://stackshare.io/)
+
+**`https://stackshare.io/`**
+
+StackShare provides online software for displaying and sharing your technology
+stack, which is made up of the software that you use. We're an online community
+that features comparisons, ratings, reviews, recommendations, and discussions
+of the best software tools and software infrastructure services.
 
 ## Contributors
 

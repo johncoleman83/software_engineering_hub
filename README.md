@@ -8,7 +8,7 @@ well suited for interview preparation for top software tech companies.
 
 * [Algorithms](https://johncoleman83.github.io/software_engineering_hub#algorithms)
 * [Tutorials](https://johncoleman83.github.io/software_engineering_hub#tutorials)
-* [Recruiters, Headhunters & Interview Prep](https://johncoleman83.github.io/software_engineering_hub#recruiters-headhunters-and-interview-prep)
+* [Recruiters, Interview Prep, Job Search](https://johncoleman83.github.io/software_engineering_hub#recruiters-interview-prep-job-search)
 * [Software Engineering Schools](https://johncoleman83.github.io/software_engineering_hub#software-engineering-schools)
 * [General Tech Info](https://johncoleman83.github.io/software_engineering_hub#general-tech-info)
 
@@ -152,7 +152,7 @@ the way it has. Lots of companies are working to "disrupt" education by
 changing the way things work in the classroom and by bringing the classroom
 online.
 
-## Recruiters, Headhunters and Interview Prep
+## Recruiters, Interview Prep, Job Search
 
 ### [vettery](https://www.vettery.com/)
 
@@ -226,7 +226,7 @@ application, No middlemen, See salary and equity upfront.  Invest in Startups:
 Build a diverse portfolio of early-stage startup investments Private and
 oversubscribed deals
 
-## Software Engineering School Guides
+## Software Engineering Schools
 
 ### [Switchup](https://www.switchup.org/)
 

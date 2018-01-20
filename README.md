@@ -163,6 +163,21 @@ the way it has. Lots of companies are working to "disrupt" education by
 changing the way things work in the classroom and by bringing the classroom
 online.
 
+### [edX](https://www.edx.org/course/subject/computer-science)
+
+**`https://www.edx.org/course/subject/computer-science`**
+
+Quality education for everyone, everywhere. Our Mission: Increase access to
+high-quality education for everyone, everywhere, Enhance teaching and learning
+on campus and online Advance teaching and learning through research. Our Story:
+Founded by Harvard University and MIT in 2012, edX is an online learning
+destination and MOOC provider, offering high-quality courses from the world’s
+best universities and institutions to learners everywhere. With more than 90
+global partners, we are proud to count the world’s leading universities,
+nonprofits, and institutions as our members. EdX university members top the QS
+World University Rankings® with our founders receiving the top honors, and edX
+partner institutions ranking highly on the full list.
+
 ## Recruiters, Interview Prep, Job Search
 
 ### [vettery](https://www.vettery.com/)
@@ -275,6 +290,27 @@ StackShare provides online software for displaying and sharing your technology
 stack, which is made up of the software that you use. We're an online community
 that features comparisons, ratings, reviews, recommendations, and discussions
 of the best software tools and software infrastructure services.
+
+### [RosettaCode](http://www.rosettacode.org/wiki/Rosetta_Code)
+
+**`http://www.rosettacode.org/wiki/Rosetta_Code`**
+
+Rosetta Code is a programming chrestomathy site. The idea is to present
+solutions to the same task in as many different languages as possible, to
+demonstrate how languages are similar and different, and to aid a person with a
+grounding in one approach to a problem in learning another. Rosetta Code
+currently has 869 tasks, 207 draft tasks, and is aware of 677 languages,
+though we do not (and cannot) have solutions to every task in every language.
+
+### [Public API List](https://github.com/toddmotto/public-apis)
+
+**`https://github.com/toddmotto/public-apis`**
+
+A collective list of free APIs for use in web development. A JSON encoding of
+all entries can be found here. For information on contributing to this project,
+please see the contributing guide. Please note a passing build status indicates
+all listed APIs are available since the last update. A failing build status
+indicates that 1 or more services may be unavailable at the moment.
 
 ## Contributors
 

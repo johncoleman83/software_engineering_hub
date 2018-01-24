@@ -14,6 +14,21 @@ well suited for interview preparation for top software tech companies.
 
 ## Algorithms
 
+### [Exercism](http://exercism.io/)
+
+`http://exercism.io/`
+
+Download and solve practice problems in over 30 different languages. Submit the
+solution to the site for feedback (beta). For code newbies and experienced
+programmers. Are you a code newbie? One moment you feel like you're getting it.
+The next moment you're stuck. Learning to program is exhilarating and
+challenging... and also frustrating, exhausting, and overwhelming. Exercism
+provides countless small wins. The exercises are achievable mini-quests: small
+and well-defined, and with enough complexity to uncover bite-sized knowledge
+gaps. The solutions you write provide reviewers with clues about what you
+haven't grasped yet. The feedback you receive will guide you to relevant study
+topics and dramatically increase the ease with which you write code.
+
 ### [Codewars](https://www.codewars.com/)
 
 **`https://www.codewars.com/`**

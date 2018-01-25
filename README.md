@@ -7,7 +7,7 @@ well suited for interview preparation for top software tech companies.
 **Table of Contents**
 
 * [Algorithms](https://johncoleman83.github.io/software_engineering_hub#algorithms)
-* [Tutorials](https://johncoleman83.github.io/software_engineering_hub#tutorials)
+* [Tutorials and Education](https://johncoleman83.github.io/software_engineering_hub#tutorials-and-education)
 * [Recruiters, Interview Prep, Job Search](https://johncoleman83.github.io/software_engineering_hub#recruiters-interview-prep-job-search)
 * [Software Engineering Schools](https://johncoleman83.github.io/software_engineering_hub#software-engineering-schools)
 * [General Tech Info](https://johncoleman83.github.io/software_engineering_hub#general-tech-info)
@@ -16,18 +16,17 @@ well suited for interview preparation for top software tech companies.
 
 ### [Exercism](http://exercism.io/)
 
-`http://exercism.io/`
+**`http://exercism.io/`**
 
 Download and solve practice problems in over 30 different languages. Submit the
 solution to the site for feedback (beta). For code newbies and experienced
-programmers. Are you a code newbie? One moment you feel like you're getting it.
-The next moment you're stuck. Learning to program is exhilarating and
-challenging... and also frustrating, exhausting, and overwhelming. Exercism
-provides countless small wins. The exercises are achievable mini-quests: small
-and well-defined, and with enough complexity to uncover bite-sized knowledge
-gaps. The solutions you write provide reviewers with clues about what you
-haven't grasped yet. The feedback you receive will guide you to relevant study
-topics and dramatically increase the ease with which you write code.
+programmers. Learning to program is exhilarating and challenging... and also
+frustrating, exhausting, and overwhelming. Exercism provides countless small
+wins. The exercises are achievable mini-quests: small and well-defined, and
+with enough complexity to uncover bite-sized knowledge gaps. The solutions you
+write provide reviewers with clues about what you haven't grasped yet. The
+feedback you receive will guide you to relevant study topics and dramatically
+increase the ease with which you write code.
 
 ### [Codewars](https://www.codewars.com/)
 
@@ -110,7 +109,7 @@ your skills by reading our tutorials in topics like advanced JavaScript
 features, data structures, and algorithm interview questions asked at
 companies like Google and Microsoft.
 
-##  Tutorials
+##  Tutorials and Education
 
 ### [careercup](https://www.careercup.com/about)
 
@@ -126,6 +125,13 @@ around a Word doc. (After all, engineers are all about efficiency!) Then people
 discovered this page (which was, at that time, just hosted off her personal
 website) and traffic grew. And then other people started to contribute their
 questions. Slowly, bit by bit, it evolved into the CareerCup we know and love.
+
+### [archive.org](https://archive.org/details/computersandtechvideos)
+
+**`https://archive.org/details/computersandtechvideos`**
+
+Internet Archive is a non-profit library of millions of free books, movies,
+software, music, websites, and more.
 
 ### [Udacity](https://www.udacity.com/)
 
@@ -326,6 +332,28 @@ all entries can be found here. For information on contributing to this project,
 please see the contributing guide. Please note a passing build status indicates
 all listed APIs are available since the last update. A failing build status
 indicates that 1 or more services may be unavailable at the moment.
+
+### [System Design](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+
+**`https://gist.github.com/vasanthk/485d1c25737e8e72759f`**
+
+System Design Cheatsheet
+
+### [Interview Cake](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+
+**`https://www.interviewcake.com/data-structures-and-algorithms-guide`**
+
+This is not a freaking textbook. No confusing academic jargon. No long lists of
+properties to memorize. No proofs. Because that stuff doesn't help you actually
+get it. Here's what does: Learning what to picture in your head when you think
+of a dynamic array or a hash map. Learning how to think in algorithms. That's
+what this guide is focused on—giving you a visual, intuitive sense for how data
+structures and algorithms actually work. So if you've got a big coding
+interview coming up, or you never learned data structures and algorithms in
+school, or you did but you're kinda hazy on how some of this stuff fits
+together... This guide will fill in the gaps in your knowledge and make you
+say, "Oooh, that's how that works." We'll walk you through it all, step by
+step. Starting from the beginning.
 
 ## Contributors
 

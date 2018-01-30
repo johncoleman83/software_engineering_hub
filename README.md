@@ -109,6 +109,16 @@ your skills by reading our tutorials in topics like advanced JavaScript
 features, data structures, and algorithm interview questions asked at
 companies like Google and Microsoft.
 
+### [CodeFights](https://codefights.com/)
+
+**`https://codefights.com/`**
+
+CodeFights is the most fun way to practice your programming skills. Master new
+languages, prepare for interviews, and much more! Join an active community of
+500,000+ engineers! Whether you have 5 minutes in the middle of the day, or 5
+hours late at night, our different modes give you a range of options for
+educational coding fun.
+
 ##  Tutorials and Education
 
 ### [careercup](https://www.careercup.com/about)

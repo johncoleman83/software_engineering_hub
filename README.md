@@ -313,6 +313,17 @@ right for you.
 
 ## General Tech Info
 
+### [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+**`https://teachyourselfcs.com/`**
+
+If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to
+learn computer science. Thankfully, you can give yourself a world-class CS
+education without investing years and a small fortune in a degree program 💸.
+Study nine subject areas using either the suggested textbook or video lecture
+series, but ideally both. Aim for 100-200 hours of study of each topic, then
+revist favorites throughout your career 🚀.
+
 ### [stackshare](https://stackshare.io/)
 
 **`https://stackshare.io/`**

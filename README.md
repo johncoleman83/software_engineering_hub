@@ -1,8 +1,9 @@
-# software_engineering_hub
+# 🐢 software_engineering_hub
 
 Software Engineering Resources Hub.  These resources support Software Engineers
 seeking to begin or enhance their skills and career. Many of the guides are
-well suited for interview preparation for top software tech companies.
+well suited for interview preparation for top software tech companies. Please
+contribute helpful resources.
 
 **Table of Contents**
 
@@ -119,7 +120,7 @@ languages, prepare for interviews, and much more! Join an active community of
 hours late at night, our different modes give you a range of options for
 educational coding fun.
 
-##  Tutorials and Education
+## Tutorials and Education
 
 ### [careercup](https://www.careercup.com/about)
 
@@ -413,3 +414,5 @@ step. Starting from the beginning.
 ## License
 
 MIT License
+
+Turtles all the way down 🐢 🐢 🐢 🐢 . . .

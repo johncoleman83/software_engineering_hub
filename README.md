@@ -324,6 +324,23 @@ Study nine subject areas using either the suggested textbook or video lecture
 series, but ideally both. Aim for 100-200 hours of study of each topic, then
 revist favorites throughout your career 🚀.
 
+### [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
+
+**`http://courses.csail.mit.edu/iap/interview/materials.php`**
+
+Learn the tricks. Beat the system.
+Ever wanted to work at a company like Google, Apple, or Facebook? There's just
+one thing standing in your way: the interview. But there's no need to fear.
+We've mastered the interview questions and topics, and we want to show you how
+you can nail every programming question. Whether you're a beginning programmer
+or a seasoned expert, this class is for you. The class focuses on computer
+science topics that frequently come up in programming interviews. It covers
+time complexity, hash tables, binary search trees, and some other things you
+might learn in 6.046. However, most of the time is devoted to topics you won't
+learn in class, such as crafty bitwise logic and tricks to solving problems.
+If you have any interest in working at a computer science company, make sure
+you don't miss this class!
+
 ### [stackshare](https://stackshare.io/)
 
 **`https://stackshare.io/`**
@@ -353,6 +370,15 @@ all entries can be found here. For information on contributing to this project,
 please see the contributing guide. Please note a passing build status indicates
 all listed APIs are available since the last update. A failing build status
 indicates that 1 or more services may be unavailable at the moment.
+
+### [Google SRE Handbook](https://landing.google.com/sre/book/index.html)
+
+**`https://landing.google.com/sre/book/index.html`**
+
+Site Reliability Engineering. Edited by Betsy Beyer, Chris Jones, Jennifer
+Petoff and Niall Richard Murphy. Members of the SRE team explain how their
+engagement with the entire software lifecycle has enabled Google to build,
+deploy, monitor, and maintain some of the largest software systems in the world.
 
 ### [System Design](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 

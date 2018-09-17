@@ -212,6 +212,15 @@ partner institutions ranking highly on the full list.
 
 ## Recruiters, Interview Prep, Job Search
 
+### [hirepool.io](https://hirepool.io/)
+
+**`https://hirepool.io/`**
+
+100% designed for the job seeker (notice we didn't say employer?). Track, log,
+organize all job related events. Put all of my job search activity in one place.
+Receive feedback and tailored interview preparation. Get personalized guidance
+through the offer process.
+
 ### [vettery](https://www.vettery.com/)
 
 **`https://www.vettery.com/`**
@@ -253,6 +262,18 @@ We want to redefine the way tech professionals find the right opportunities
 and the way companies find the right talent. At our core we believe that tech
 professionals should easily know their demand and get the right opportunities
 without the need to actively search for it.
+
+### [alley.com](https://www.alley.com/business-services)
+
+**`https://www.alley.com/`**
+
+The founding team of any startup has to be jack-of-all trades. As you grow your
+business those roles grow and multiply, and the precision required grows as well.
+Alley Services deliver access to expert experience in specialized areas just when
+you need them the most. Our suite of professional white gloved services,
+cutting-edge technology, and premium experiences are just what you need to help
+your business grow. Providing an extra hand with Events, Recruiting, Marketing,
+and  Digital Development.
 
 ### [interviewing.io](https://interviewing.io/)
 

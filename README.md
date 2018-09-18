@@ -426,8 +426,6 @@ step. Starting from the beginning.
 
 ## Contributors
 
-![](https://raw.githubusercontent.com/johncoleman83/software_engineering_hub/master/holberton-school-logo.png)
-
 * David John Coleman II,
 [davidjohncoleman.com](http://www.davidjohncoleman.com/) |
 [@djohncoleman](https://twitter.com/djohncoleman)

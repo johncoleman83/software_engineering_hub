@@ -210,6 +210,12 @@ nonprofits, and institutions as our members. EdX university members top the QS
 World University Rankings® with our founders receiving the top honors, and edX
 partner institutions ranking highly on the full list.
 
+### [pluralsight](https://www.pluralsight.com)
+
+**`https://www.pluralsight.com/`**
+
+At Pluralsight, we believe everyone should have the opportunity to create progress through technology and develop the skills of tomorrow. With assessments, learning paths and courses authored by industry experts, our platform helps businesses and individuals close skills gaps in critical areas, innovate faster and deliver on key objectives.
+
 ## Recruiters, Interview Prep, Job Search
 
 ### [hirepool.io](https://hirepool.io/)

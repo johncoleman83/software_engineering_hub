@@ -120,6 +120,17 @@ languages, prepare for interviews, and much more! Join an active community of
 hours late at night, our different modes give you a range of options for
 educational coding fun.
 
+### [SPOJ (Sphere Online Judge)](https://www.spoj.com/)
+
+**`https://www.spoj.com/`**
+
+SPOJ is an online judge system with over 20,000 coding problems. It has a 
+collection of archived and topic-wise tagged problems under categories like 
+Classical, Challenge, Tutorial, etc. SPOJ is a great platform for beginners 
+to develop understanding of algorithms and it serves as a good start to 
+competitive programming. One can participate in or even organize 
+programming contests on it.
+
 ## Tutorials and Education
 
 ### [careercup](https://www.careercup.com/about)

@@ -229,7 +229,9 @@ At Pluralsight, we believe everyone should have the opportunity to create progre
 
 ## Recruiters, Interview Prep, Job Search
 
-### [https://www.upwork.com/freelance-jobs](https://www.upwork.com/freelance-jobs)
+### [upwork.com](https://www.upwork.com/freelance-jobs)
+
+**`https://www.upwork.com/freelance-jobs`**
 
 Find the right freelance job for your next work from home opportunity on the world’s
 largest hiring platform connecting savvy businesses and professional freelancers.

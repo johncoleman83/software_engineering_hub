@@ -237,15 +237,6 @@ Find the right freelance job for your next work from home opportunity on the wor
 largest hiring platform connecting savvy businesses and professional freelancers.
 Browse by Upwork’s robust database of categories, skills, and deliverables.
 
-### [hirepool.io](https://hirepool.io/)
-
-**`https://hirepool.io/`**
-
-100% designed for the job seeker (notice we didn't say employer?). Track, log,
-organize all job related events. Put all of my job search activity in one place.
-Receive feedback and tailored interview preparation. Get personalized guidance
-through the offer process.
-
 ### [vettery](https://www.vettery.com/)
 
 **`https://www.vettery.com/`**
